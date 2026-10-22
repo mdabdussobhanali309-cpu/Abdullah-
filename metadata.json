@@ -1,0 +1,6 @@
+{
+  "name": "Image Detective AI",
+  "description": "AI-powered image detective and visual analysis in Bengali using Gemini vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
